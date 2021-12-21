@@ -1,4 +1,4 @@
-# Strapi CMS for onboarding-portal-webapp application
+# onboarding-portal-cms
 The backend CMS for the onboarding-portal-webapp. Serves content in the form of pages and manages roles and permissions.
 
 ## Environment Variables
