@@ -22,11 +22,11 @@ Navigate to http://localhost:1337/admin in your browser to create/login to the a
 ## Building with Docker
 To build a docker image for this app run the following command
 ```
-docker build -t vigilant-dollop .
+docker build -t onboarding-portal-cms .
 ```
 To start a docker container with the image run the following
 ```
-docker run -p 127.0.0.1:1337:1337 vigilant-dollop
+docker run -p 127.0.0.1:1337:1337 onboarding-portal-cms
 ```
 
 The Webapp will then be accessible on `127.0.0.1:1337`
