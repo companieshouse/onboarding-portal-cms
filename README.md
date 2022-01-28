@@ -37,7 +37,7 @@ docker run -p 127.0.0.1:1337:1337 onboarding-portal-cms
 
 The Webapp will then be accessible on `127.0.0.1:1337`
 
-## Initial `stapi` configuration
+## Initial `strapi` configuration
 
 ### To allow clients to use `strapi`
 
